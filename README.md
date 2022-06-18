@@ -23,4 +23,7 @@ The interested reader may refer to the following papers for more details:
 
 3. Alizadeh, M., Di Eugenio, B., Harsley, R., Green, N., Fossati, D., & AlZoubi, O. (2015, May). A Study of Analogy in Computer Science Tutorial Dialogues. In Proceedings of the 7th International Conference on Computer Supported Education-Volume 2 (pp. 232-237). SCITEPRESS-Science and Technology Publications, Lda.
 
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 For SQLite format / alternative access of the data, please refer to http://digitaltutor.net/chiqat/pages/database.php
